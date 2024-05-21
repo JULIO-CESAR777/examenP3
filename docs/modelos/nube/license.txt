@@ -1,0 +1,11 @@
+Model Information:
+* title:	toon snow
+* source:	https://sketchfab.com/3d-models/toon-snow-22ce40a825634c0a81341204b82d53b3
+* author:	vicente betoret ferrero (https://sketchfab.com/deathcow)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "toon snow" (https://sketchfab.com/3d-models/toon-snow-22ce40a825634c0a81341204b82d53b3) by vicente betoret ferrero (https://sketchfab.com/deathcow) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
